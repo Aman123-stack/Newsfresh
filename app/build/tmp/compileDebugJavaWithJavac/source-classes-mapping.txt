@@ -1,0 +1,2 @@
+com/internshala/newsfresh/BuildConfig.java
+ com.internshala.newsfresh.BuildConfig
